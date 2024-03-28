@@ -6,5 +6,5 @@ Some description!
 
 Watch tuturial on YouTube.
 
-## New Feather 
+## New Feather pull request
 Some new feathers
